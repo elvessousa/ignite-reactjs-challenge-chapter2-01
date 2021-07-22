@@ -1,4 +1,4 @@
-<h1 align="center">dt money</h1>
+<h1 align="center">Shopping cart (ignite challenge)</h1>
 
 #### Ignite
 
